@@ -1,2 +1,6 @@
 # Mhw3
-Mini Homework 3
+##Mini Homework 3
+###Sviluppo pagina web, lato client.
+Homepage mini homework 1 modificata
+sono stati inserite parti dinamiche,grazie all'ausilio delle API.
+Utilizzo API key
